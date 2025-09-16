@@ -17,6 +17,15 @@
 
 | Term             | Definition                                      | Example / Notes                          |
 |------------------|--------------------------------------------------|-------------------------------------------|
+| Variable         |A named container used to store a value that may change.|
+| Constant         |A fixed value that cannot change once set.|
+|
+|
+|
+|
+|
+|
+|
 | Widget           |Basic building block of a Flutter app. Everything is a widget.|Text, image, container, column                                           |
 | MaterialApp      |The root of the app. Sets up routes and themes.| Found in main. dart                                          |
 | Scaffold         |Provides basic visuals                                                  |                                           |
