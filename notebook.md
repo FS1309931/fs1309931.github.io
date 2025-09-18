@@ -33,6 +33,11 @@
 | Text             |Displays texts                                    |                                           |
 | Image.network    |Displays images from a URL                        |                                           | 
 | Center           |Centers it's child                                |                                           |
+|------------------|--------------------------------------------------|-------------------------------------------|
+
+
+
+
 ---
 
 ### Layout and Design Widgets
