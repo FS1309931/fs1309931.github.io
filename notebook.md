@@ -71,6 +71,13 @@ This ensures your notes are easy for you (and others) to read later.
 |Override| Changing how a built-in or inherited function behaves. | `@override` |  |  |
 |Void| A function that does not return a value. | `void printMessage() {}` |  |  |
 Fenced code blocks with language for full examples.
+|Padding|Makes space ariund a widget inside its container|(padding: EdgeInsets.all(8.0). child:|   |   |
+|Center|Aligns content in the center of the screen or container|Center(child) |   |   |
+|Wrap|Automatically puts a widget|--------------------------|-------------------|-------------|
+|Build|Required in every widget class to describe what to show|build|   |   |
+|Build Context|A variable that helps the widget know where it is and lets it |--------------------------|-------------------|-------------|
+
+
 
 ---
 
