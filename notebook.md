@@ -117,10 +117,19 @@ Uses the Dart programming language.
 | dot notation | Methods are called on objects using a dot after the object name| object.method(value);|  |  |
 | Overloaded method/function or contructor | Uses the same name, but has different parameters| Pizza(), Pizza(String toppings) 2 constructors, first is a default cheese pizza, 2nd has 1 topping |  |  |
 | Concatenate | To combine strings with other strings and/or variables | String greeting = "Hello" + "My name is " + name ". "; |  |  |
+| index| location value of each character| | ||
+
+
+
+
+
 
 
 ### String Notes
   Strings have indices (plural for index,) which start at 0. "Hello" has indices 0(H), 1(e), 2(l), 3(l), 4(o).
+
+### String Methods Table
+<img width="861" height="370" alt="Screenshot 2025-11-14 085804" src="https://github.com/user-attachments/assets/d884089b-9c92-4033-b3a7-001c4892d892" />
 
 
 
